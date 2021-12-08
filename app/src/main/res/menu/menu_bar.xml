@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/sharing"
+        android:title="@string/sharing"
+        android:icon="@drawable/ic_share"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/chng_lang"
+        android:title="@string/chng_lang"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/close_app"
+        android:title="@string/close_app"
+        app:showAsAction="never" />
+
+
+</menu>

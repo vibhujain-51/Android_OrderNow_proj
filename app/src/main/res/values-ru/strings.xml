@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Заказать сейчас</string>
+    <string name="main_heading">ВОЙТИ, ЧТОБЫ НАЧАТЬ ИСПОЛЬЗОВАТЬ ПРИЛОЖЕНИЕ</string>
+    <string name="user_name">Полное имя</string>
+    <string name="opt_male">Мужчина</string>
+    <string name="opt_female">женский</string>
+    <string name="ph_mail">Телефон / Электронная почта</string>
+    <string name="pass_word">Введите пароль</string>
+    <string name="pass_show">Показать пароль</string>
+    <string name="country_sel">Выберите страну</string>
+    <string name="sign_up">ЗАРЕГИСТРИРОВАТЬСЯ</string>
+    <string name="sharing" translatable="false">Делиться</string>
+    <string name="chng_lang" translatable="false">Изменить язык приложения</string>
+    <string name="close_app" translatable="false">Закрывать</string>
+    <string name="read1" translatable="false">Подробнее</string>
+    <string name="read2" translatable="false">Подробнее</string>
+    <string name="read3" translatable="false">Подробнее</string>
+    <string name="read4" translatable="false">Подробнее</string>
+    <string name="buy1" translatable="false">купить сейчас</string>
+    <string name="buy2" translatable="false">купить сейчас</string>
+    <string name="buy3" translatable="false">купить сейчас</string>
+    <string name="buy4" translatable="false">купить сейчас</string>
+    <string name="cont1" translatable="false">Видеокарта GeForce GTX 1060 наполнена новыми инновационными играми
+        технологии, что делает его идеальным выбором для новейших игр с высоким разрешением. Питаться от
+        NVIDIA Pascal ™ - самая передовая архитектура графического процессора из когда-либо созданных - GeForce GTX 1060 обеспечивает
+        блестящее исполнение, открывающее дверь в виртуальную реальность и не только. #GameReady.</string>
+    <string name="head1" translatable="false"> NVIDIA GTX 1060</string>
+    <string name="head2" translatable="false"> Технические характеристики :</string>
+    <string name="cont2" translatable="false"> Архитектура графического процессора ----- Паскаль, ядра NVIDIA CUDA® ---- 1280, буфер кадра ---- 6 ГБ GDDR5, скорость памяти ---- 8 Гбит / с</string>
+    <string name="head3" translatable="false">CORE I7</string>
+    <string name="cont3" translatable="false">Ядра ЦП 4, частота (ГГц) 2,8 ГГц, кэш (МБ) 6, TDP (Вт) 45 Вт, сегмент продукта Mobile, статус опубликован, анонсирован 01.01.2017</string>
+    <string name="head4" translatable="false">Asus ROG GL551</string>
+    <string name="cont4" translatable="false">Бренд - Asus, Модель - ROG GL551, Размер - 15,00 дюйма, Разрешение - 1920x1080 пикселей, Сенсорный экран - Нет, Процессор - Intel Core i7 4th Gen 4720HQ,
+Базовая тактовая частота - 2,6 ГГц, ОЗУ - 8 ГБ, Слоты ОЗУ - 2, Расширяемая ОЗУ до (ГБ) - 16 ГБ, Графический процессор - Nvidia GeForce GTX 950M, Тип выделенной графической памяти - DDR3, Жесткий диск - 1 ТБ,
+SSD - Нет</string>
+    <string name="head5" translatable="false">ROG STRIX X570 - E Gaming</string>
+    <string name="cont5" translatable="false">Игровая материнская плата AMD X570 ATX с PCIe 4.0, 2,5 Гбит / с и Intel Gigabit LAN, Wi-Fi 6 (802.11ax), 16 силовых каскадов, два разъема M.2 с радиаторами, SATA 6 Гбит / с, USB 3.2 Gen 2 и подсветка Aura Sync RGB</string>
+
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ਹੁਣੇ ਆਰਡਰ ਕਰੋ</string>
+    <string name="main_heading">ਐਪ ਦੀ ਵਰਤੋਂ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ</string>
+    <string name="user_name">ਪੂਰਾ ਨਾਂਮ</string>
+    <string name="opt_male">ਨਰ</string>
+    <string name="opt_female">ਔਰਤ</string>
+    <string name="ph_mail">ਫ਼ੋਨ/ਈਮੇਲ</string>
+    <string name="pass_word">ਪਾਸਵਰਡ ਦਰਜ ਕਰੋ</string>
+    <string name="pass_show">ਪਾਸਵਰਡ ਦਿਖਾਓ</string>
+    <string name="country_sel">ਇੱਕ ਦੇਸ਼ ਚੁਣੋ</string>
+    <string name="sign_up">ਸਾਇਨ ਅਪ</string>
+    <string name="sharing" translatable="false">ਸ਼ੇਅਰ ਕਰੋ</string>
+    <string name="chng_lang" translatable="false">ਐਪ ਦੀ ਭਾਸ਼ਾ ਬਦਲੋ</string>
+    <string name="close_app" translatable="false">ਬੰਦ ਕਰੋ</string>
+    <string name="read1" translatable="false">ਹੋਰ ਪੜ੍ਹੋ</string>
+    <string name="read2" translatable="false">ਹੋਰ ਪੜ੍ਹੋ</string>
+    <string name="read3" translatable="false">ਹੋਰ ਪੜ੍ਹੋ</string>
+    <string name="read4" translatable="false">ਹੋਰ ਪੜ੍ਹੋ</string>
+    <string name="buy1" translatable="false">ਹੁਣੇ ਖਰੀਦੋ</string>
+    <string name="buy2" translatable="false">ਹੁਣੇ ਖਰੀਦੋ</string>
+    <string name="buy3" translatable="false">ਹੁਣੇ ਖਰੀਦੋ</string>
+    <string name="buy4" translatable="false">ਹੁਣੇ ਖਰੀਦੋ</string>
+    <string name="cont1" translatable="false">GeForce GTX 1060 ਗ੍ਰਾਫਿਕਸ ਕਾਰਡ ਨਵੀਨਤਾਕਾਰੀ ਨਵੀਂ ਗੇਮਿੰਗ ਨਾਲ ਲੋਡ ਕੀਤਾ ਗਿਆ ਹੈ
+        ਤਕਨਾਲੋਜੀਆਂ, ਇਸ ਨੂੰ ਨਵੀਨਤਮ ਹਾਈ-ਡੈਫੀਨੇਸ਼ਨ ਗੇਮਾਂ ਲਈ ਸੰਪੂਰਨ ਵਿਕਲਪ ਬਣਾਉਂਦੀਆਂ ਹਨ। ਦੁਆਰਾ ਸੰਚਾਲਿਤ
+        NVIDIA Pascal ™ — ਹੁਣ ਤੱਕ ਦਾ ਸਭ ਤੋਂ ਉੱਨਤ GPU ਆਰਕੀਟੈਕਚਰ — GeForce GTX 1060 ਪ੍ਰਦਾਨ ਕਰਦਾ ਹੈ
+        ਸ਼ਾਨਦਾਰ ਪ੍ਰਦਰਸ਼ਨ ਜੋ ਵਰਚੁਅਲ ਹਕੀਕਤ ਅਤੇ ਇਸ ਤੋਂ ਅੱਗੇ ਦਾ ਦਰਵਾਜ਼ਾ ਖੋਲ੍ਹਦਾ ਹੈ। #GameReady.</string>
+    <string name="head1" translatable="false"> NVIDIA GTX 1060</string>
+    <string name="head2" translatable="false"> ਨਿਰਧਾਰਨ :</string>
+    <string name="cont2" translatable="false"> GPU ਆਰਕੀਟੈਕਚਰ ----- ਪਾਸਕਲ, NVIDIA CUDA® ਕੋਰ ---- 1280, ਫਰੇਮ ਬਫਰ ---- 6 GB GDDR5, ਮੈਮੋਰੀ ਸਪੀਡ ---- 8 Gbps</string>
+    <string name="head3" translatable="false">ਕੋਰ I7</string>
+    <string name="cont3" translatable="false">CPU ਕੋਰ 4, ਫ੍ਰੀਕੁਐਂਸੀ (GHz) 2.8 GHz, ਕੈਸ਼ (MB) 6, TDP (ਵਾਟਸ) 45 W, ਉਤਪਾਦ ਖੰਡ ਮੋਬਾਈਲ, ਸਥਿਤੀ ਜਾਰੀ ਕੀਤੀ ਗਈ, 2017-01-01 ਨੂੰ ਘੋਸ਼ਣਾ ਕੀਤੀ ਗਈ</string>
+    <string name="head4" translatable="false">Asus ROG GL551</string>
+    <string name="cont4" translatable="false">ਬ੍ਰਾਂਡ - Asus, ਮਾਡਲ - ROG GL551, ਆਕਾਰ - 15.00-ਇੰਚ, ਰੈਜ਼ੋਲਿਊਸ਼ਨ - 1920x1080 ਪਿਕਸਲ, ਟੱਚ ਸਕ੍ਰੀਨ - ਨਹੀਂ, ਪ੍ਰੋਸੈਸਰ - Intel Core i7 4th Gen 4720HQ,
+ਬੇਸ ਕਲਾਕ ਸਪੀਡ - 2.6 GHz, RAM - 8GB, RAM ਸਲਾਟ - 2, ਐਕਸਪੈਂਡੇਬਲ ਰੈਮ (GB) ਤੱਕ - 16GB, ਗ੍ਰਾਫਿਕਸ ਪ੍ਰੋਸੈਸਰ - Nvidia GeForce GTX 950M ਸਮਰਪਿਤ ਗ੍ਰਾਫਿਕ ਮੈਮੋਰੀ ਕਿਸਮ - DDR3, ਹਾਰਡ ਡਿਸਕ - 1TB,
+SSD - ਨਹੀਂ</string>
+    <string name="head5" translatable="false">ROG STRIX X570 - E Gaming</string>
+    <string name="cont5" translatable="false">PCIe 4.0, 2.5 Gbps ਅਤੇ Intel Gigabit LAN ਦੇ ਨਾਲ AMD X570 ATX ਗੇਮਿੰਗ ਮਦਰਬੋਰਡ, Wi-Fi 6 (802.11ax), 16 ਪਾਵਰ ਪੜਾਅ, ਹੀਟਸਿੰਕਸ ਦੇ ਨਾਲ ਦੋਹਰਾ M.2, SATA 6Gb/s, USB 3.2 Gen 2 ਅਤੇ Aura Syncing RGB ਲਾਈਟ</string>
+
+</resources>

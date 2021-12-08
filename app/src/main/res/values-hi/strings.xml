@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">अभी आर्डर करे</string>
+    <string name="main_heading">ऐप का उपयोग शुरू करने के लिए साइन अप करें</string>
+    <string name="user_name">पूरा नाम</string>
+    <string name="opt_male">पुरुष</string>
+    <string name="opt_female">महिला</string>
+    <string name="ph_mail">फोन/ईमेल</string>
+    <string name="pass_word">पास वर्ड दर्ज करें</string>
+    <string name="pass_show">शो पासवर्ड</string>
+    <string name="country_sel">कोई देश चुनें</string>
+    <string name="sign_up">साइन अप करें</string>
+    <string name="sharing" translatable="false">शेयर करे</string>
+    <string name="chng_lang" translatable="false">ऐप की भाषा बदलें</string>
+    <string name="close_app" translatable="false">बंद करे</string>
+    <string name="acc" translatable="false">लेखा</string>
+    <string name="read1" translatable="false">अधिक पढ़ें</string>
+    <string name="read2" translatable="false">अधिक पढ़ें</string>
+    <string name="read3" translatable="false">अधिक पढ़ें</string>
+    <string name="read4" translatable="false">अधिक पढ़ें</string>
+    <string name="buy1" translatable="false">अभी खरीदें</string>
+    <string name="buy2" translatable="false">अभी खरीदें</string>
+    <string name="buy3" translatable="false">अभी खरीदें</string>
+    <string name="buy4" translatable="false">अभी खरीदें</string>
+    <string name="cont1" translatable="false">GeForce GTX 1060 ग्राफिक्स कार्ड नए नए गेमिंग के साथ लोड किया गया है
+        प्रौद्योगिकियां, इसे नवीनतम हाई-डेफिनिशन गेम के लिए सही विकल्प बनाती हैं। द्वारा संचालित
+        NVIDIA पास्कल ™ - अब तक का सबसे उन्नत GPU आर्किटेक्चर - GeForce GTX 1060 डिलीवर करता है
+        शानदार प्रदर्शन जो आभासी वास्तविकता और उससे आगे के द्वार खोलता है। #गेमरेडी।</string>
+    <string name="head1" translatable="false"> NVIDIA GTX 1060</string>
+    <string name="head2" translatable="false"> विनिर्देश :</string>
+    <string name="cont2" translatable="false"> GPU आर्किटेक्चर ----- पास्कल, NVIDIA CUDA® कोर ---- 1280, फ़्रेम बफर ---- 6 GB GDDR5, मेमोरी स्पीड ---- 8 Gbps</string>
+    <string name="head3" translatable="false">कोर I7</string>
+    <string name="cont3" translatable="false">सीपीयू कोर 4, आवृत्ति (गीगाहर्ट्ज) 2.8 गीगाहर्ट्ज, कैशे (एमबी) 6, टीडीपी (वाट) 45 डब्ल्यू, उत्पाद खंड मोबाइल, स्थिति जारी, 2017-01-01 को घोषित</string>
+    <string name="head4" translatable="false">Asus ROG GL551</string>
+    <string name="cont4" translatable="false">
+ब्रांड - Asus, मॉडल - ROG GL551, आकार - 15.00-इंच, रिज़ॉल्यूशन - 1920x1080 पिक्सेल, टच स्क्रीन - नहीं, प्रोसेसर - Intel Core i7 4th Gen 4720HQ,
+बेस क्लॉक स्पीड - 2.6 GHz, RAM - 8GB, RAM स्लॉट - 2, एक्सपेंडेबल रैम (GB) तक - 16GB, ग्राफिक्स प्रोसेसर - Nvidia GeForce GTX 950M डेडिकेटेड ग्राफिक मेमोरी टाइप - DDR3, हार्ड डिस्क - 1TB,
+एसएसडी - नहीं</string>
+    <string name="head5" translatable="false">ROG STRIX X570 - E Gaming</string>
+    <string name="cont5" translatable="false">
+AMD X570 ATX गेमिंग मदरबोर्ड PCIe 4.0, 2.5 Gbps और Intel Gigabit LAN, Wi-Fi 6 (802.11ax), 16 पावर स्टेज, हीट सिंक के साथ डुअल M.2, SATA 6Gb/s, USB 3.2 Gen 2 और Aura Sync RGB लाइटिंग के साथ</string>
+
+</resources>
